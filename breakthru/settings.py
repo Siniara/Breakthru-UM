@@ -1,0 +1,15 @@
+# Board dimension
+WIDTH, HEIGHT = 700, 600
+ROWS, COLS = 11, 11
+SQUARE_SIZE = 47
+MARGIN = 3
+
+# rgb
+BLACK = (0, 0, 0)
+BLUE = (0, 0, 255)
+WHITE = (255, 255, 255)
+GREEN = (30, 100, 30)
+RED = (255, 0, 0)
+SILVER = (160, 130, 160)
+GOLD = (255, 215, 0)
+KING = (255, 160, 39)

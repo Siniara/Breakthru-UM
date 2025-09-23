@@ -1,0 +1,7 @@
+setup.py
+readme.txt
+notes
+/build
+/logs
+*.zip
+*.txt
