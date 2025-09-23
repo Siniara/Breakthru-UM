@@ -5,3 +5,4 @@ notes
 /logs
 *.zip
 *.txt
+__pycache__

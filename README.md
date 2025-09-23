@@ -1,6 +1,8 @@
 # Intro
 This project is an implementation of a board game - [Breakthru](https://en.wikipedia.org/wiki/Breakthru_(board_game)). This was developed as part of `Intelligent Search & Games` course as part of my Master's studies. The point was to implement a game AI. 
 
+![Breakthru board](images/board.png)
+
 Conceptually, it consists of two parts:
 - the actual game — the board, the logic, the GUI that allows the game to be played by 2 human players.
 - a game AI that simulates the adversary based on multiple game and decision theory strategies.
@@ -8,7 +10,8 @@ Conceptually, it consists of two parts:
 To initiate the AI player's turn you have to click the mouse button. I click to initiate each action, the current player's turn is displayed in the top left of the game screen. Mulitple types of AIs have been implemented, but the game is not optimised well enough that playing with all of them is enjoyable, as the computation takes too much time (see [Changing the players](#changing-the-players). NegaMax player with 1 ply works best, you can even set up 2 AI players to play against one another. 
 
 # Running the game
-Run the game by executing `main.py`.
+- Activate an environment with `pygame`
+- Run the game: `python main.py`
 
 ## Key Bindings
 - r - reset game
