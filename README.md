@@ -1,5 +1,5 @@
 # Intro
-This project is an implementation of a board game - [Breakthru](https://en.wikipedia.org/wiki/Breakthru_(board_game)). This was developed as part of `Intelligent Search & Games` course as part of my Master's studies. The goal was to implement a game AI. 
+This project is an implementation of a board game - [Breakthru](https://en.wikipedia.org/wiki/Breakthru_(board_game)). This was developed as part of `Intelligent Search & Games` course in my Master's program. The goal was to implement a game AI. 
 
 ![Breakthru board](images/board.png)
 

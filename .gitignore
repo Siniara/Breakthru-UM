@@ -4,5 +4,6 @@ notes
 /build
 /logs
 *.zip
+*.7z
 *.txt
 __pycache__
