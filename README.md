@@ -17,7 +17,7 @@ To initiate the AI player's turn you have to click the mouse button, the current
 - r - reset game
 - z - undo move (not! capture, only move)
 - c - manual turn change (not used for normal gameplay)
-- h - log game (the game is always displayed on the console)
+- h - log game (the game state is always displayed on the console as well)
 
 ## Changing the players:
 In [main.py](main.py):
